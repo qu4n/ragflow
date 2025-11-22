@@ -1,0 +1,17 @@
+# Local customization and testing files
+*.local-backup
+FAN_CONTROL_GUIDE.md
+GPU_FAN_INVESTIGATION.md
+GPU_FAN_TEST_RESULTS.md
+RESTART_GUIDE.md
+TESTING_GUIDE.md
+auto_configure_models.sh
+configure_local_models.sh
+configure_max_accuracy_models.sh
+configure_ollama.sh
+monitor_temps_fans.sh
+ollama_rerank_server.py
+restart_ragflow.sh
+save_ragflow_state.sh
+test_gpu_fan.sh
+test_rag_performance.py
